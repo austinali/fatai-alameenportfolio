@@ -84,7 +84,6 @@ margin:20px;
 padding:20px;
 border-radius:10px;
 font-size: 20px;
-letter-spacing: 1px;
 font-weight: 700;
  }
  .home-content div p{
@@ -139,12 +138,6 @@ color: aliceblue;
 letter-spacing: 0.5px;
 font-weight: 700;
 }
-
-.about-content div p{
-    text-align: justify;
-}
-.about-content div h3{
-    text-align: left;
 }
 .about-content div ul{
     list-style: none;
@@ -188,6 +181,7 @@ font-weight: 700;
  font-weight: 700;
  border-radius: 10px;
  transition: background0.5s, transform 0.5s;
+background: #262626;
 }
 .choose-me h3{
     font-size: 30px;
