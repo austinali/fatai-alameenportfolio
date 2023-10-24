@@ -360,12 +360,12 @@ font-weight: 700;
 .contact-left p{
     margin-top: 30px;
     font-size: 28px;
+     text-decoration: none;
 }
 .contact-left p i{
     color: #ff004f;
     margin-right: 15px;
     font-size: 25px;
-    text-decoration: none;
 }
 .social-icons{
     margin-top: 30px;
